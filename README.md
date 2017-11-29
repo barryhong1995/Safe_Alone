@@ -1,13 +1,13 @@
-====================================
 SAFE ALONE
+===============
+
 Version: 1.0
 Status: Executable, Single-File
 Date: 10/06/2016
-====================================
+===============
 
-===============
-HOW TO PLAY
-===============
+
+How to Play:
 Use Keyboard Control (Up/Down/Left/Right) to move the character
 Use SPACE Bar to interact with object and close the text-box.
 Use ENTER to force close text-box / launch menu.
